@@ -3,3 +3,5 @@ This is just a fun little project I did while working on a React mastery course.
 It is available [here](https://cbeck.github.io/monsters-rolodex/).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Working on more React projects now. Stay tuned...
